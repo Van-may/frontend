@@ -1,6 +1,6 @@
 {
-  "name": "@tiep/frontend",
-  "description": "tiep frontend",
+  "name": "@van-may/frontend",
+  "description": "vanmay frontend",
   "homepage": "https://vanmay.info/",
   "version": "0.0.0-alpha",
   "private": true,
