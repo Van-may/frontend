@@ -1,0 +1,23 @@
+{
+  "activeSemester": "2019/1",
+  "title": "Vận may sơn trang",
+  "description": "tất tần tật về mọi mặt cuộc sống, gia đình, nhà cửa, sinh hoạt, và hướng mưu sinh. Tiếp nhà cửa cuộc sống mưu sinh",
+  "links": [
+    {
+      "label": "facebook",
+      "url": "https://www.facebook.com/vanmayvuive/"
+    },
+    {
+      "label": "shop",
+      "url": "https://tiep.teemill.com"
+    },
+    {
+      "label": "newsletter",
+      "url": "https://tiep.substack.com"
+    },
+    {
+      "label": "ramen",
+      "url": "https://ramendaily.com"
+    }
+  ]
+}
