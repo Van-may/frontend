@@ -14,12 +14,12 @@
 
 [[redirects]]
   from = "/admin"
-  to = "https://tiep-backend.netlify.com/admin"
+  to = "https://vanmay-backend.netlify.com/admin"
   status = 302
   force = true
 
 [[redirects]]
   from = "/admin/*"
-  to = "https://tiep-backend.netlify.com/admin/:splat"
+  to = "https://vanmay-backend.netlify.com/admin/:splat"
   status = 302
   force = true

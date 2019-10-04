@@ -31,8 +31,8 @@ module.exports = {
 		{
 			resolve: 'gatsby-source-git',
 			options: {
-				name: 'tiep-backend',
-				remote: 'https://github.com/tiepdotme/tiep.backend.git',
+				name: 'vanmay-backend',
+				remote: 'https://github.com/van-may/backend.git',
 				branch: 'master',
 				// articles needs to be processed after others,
 				// keep it last in the array
